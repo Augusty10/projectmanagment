@@ -1,0 +1,24 @@
+{
+  "name": "projectmanagemnt",
+  "version": "1.0.0",
+  "description": "a project managment application for beginners",
+  "keywords": [
+    "Backend ",
+    "API ",
+    "Project Mangement "
+  ],
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "license": "ISC",
+  "author": "dhanraj sahu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
